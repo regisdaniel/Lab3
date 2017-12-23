@@ -1,3 +1,6 @@
 # .yml file
 ---
 lucky-word: Erica
+level1:
+  level2:
+    level3: Value3
